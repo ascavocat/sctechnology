@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Index Pages -->
+    <url>
+        <loc>https://sctechnologyservices.com/en/index.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/index.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://sctechnologyservices.com/fr/index.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/index.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Services Pages -->
+    <url>
+        <loc>https://sctechnologyservices.com/en/services.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/services.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/services.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://sctechnologyservices.com/fr/services.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/services.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/services.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Company Pages -->
+    <url>
+        <loc>https://sctechnologyservices.com/en/company.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/company.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/company.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sctechnologyservices.com/fr/company.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/company.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/company.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- contact Pages -->
+    <url>
+        <loc>https://sctechnologyservices.com/en/contact.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/contact.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://sctechnologyservices.com/fr/contact.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sctechnologyservices.com/en/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://sctechnologyservices.com/fr/contact.html"/>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>

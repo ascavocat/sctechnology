@@ -12,6 +12,16 @@
 
     <!-- Meta Keywords -->
     <meta name="keywords" content="Custom Software Development, Cybersecurity Services, IT Managed Services, Web Development, Technology Solutions, Digital Transformation, Secure IT, Business Technology, Enterprise Software, Web Solutions">
+
+     <!-- Favicon -->
+     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    
+     <!-- Canonical Link -->
+     <link href="https://sctechnology.com/en/services.html" rel="canonical" />
+     
+     <!-- Alternate Language Versions -->
+     <link rel="alternate" hreflang="en" href="www.sctechnology.com/en/services.html" />
+     <link rel="alternate" hreflang="fr" href="www.sctechnology.com/fr/services.html" />
 </head>
 <body>
     
@@ -28,16 +38,20 @@
                 <li class="nav-item me-2"><a class="nav-link text-dark" href="services">Services</a></li>
                 <li class="nav-item me-2"><a class="nav-link text-dark" href="company.html">About Us</a></li>
                 <li class="nav-item"><a class="nav-link text-dark" href="contact.html">Contact</a></li>
-              </ul><div class="dropdown">
-              <!-- Button with specified class -->
-              <button class="btn btn-outline-primary me-2 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Language
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">English</a>
-                <a class="dropdown-item" href="#">Français</a>
-              </div>
-              </div>
+              </ul>
+
+              <div class="row">
+                <div class="col-auto">
+                    <label for="langSelect" class="form-label text-dark  align-middle">Language:</label>
+                </div>
+                <div class="col-auto ">
+                    <select id="langSelect" class="form-select bg-primary text-white">
+                        <option value="fr">Français</option>
+                        <option value="en" selected>English</option>
+                    </select>
+                </div>
+            </div>
+
       
             </div>
           </nav><div class="row">
@@ -72,15 +86,14 @@
                 <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
                 <li class="nav-item"><a class="nav-link" href="company.html">About Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-              </ul><div class="dropdown">
-              <!-- Button with specified class -->
-              <button class="btn btn-outline-primary me-2 dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Language
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#">English</a>
-                <a class="dropdown-item" href="#">Français</a>
-              </div>
+              </ul>
+
+              <div class="navbar-item">
+                <label for="langSelect" class="form-label">Language:</label>
+                <select id="langSelect" class="form-select">
+                    <option value="fr">Français</option>
+                    <option value="en" selected>English</option>
+                </select>
               </div>
       
             </div>
